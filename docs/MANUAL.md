@@ -1,4 +1,4 @@
-# Lotti's Manual
+the## Lotti's Manual
 
 Lotti is a digital assistant that allows you to answer questions about your life by chatting with
 your data, for example by asking what you learned regarding a certain category (such as work) in the
